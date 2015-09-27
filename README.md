@@ -1,6 +1,3 @@
-# CleaningDataProject
-Relevants files for the Cleaning Data assignment of Coursera.
-
 ---
 title: "ReadMe"
 author: "Javier Clavijo"
