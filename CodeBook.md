@@ -4,6 +4,8 @@ author: "Javier Clavijo"
 date: "27 de septiembre de 2015"
 output: html_document
 ---
+#CodeBook
+
 See ReadMe File for description of the original experiment.
 
 The data set contains 180 rows and 81 columns. The 180 rows correspond to the measures of 6 different activities for 30 different subjects. The 81 columns are distributed as follows:
