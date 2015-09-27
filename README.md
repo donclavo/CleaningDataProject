@@ -4,6 +4,8 @@ author: "Javier Clavijo"
 date: "27 de septiembre de 2015"
 output: html_document
 ---
+# CleaningDataProject
+Relevants files for the Cleaning Data assignment of Coursera.
 
 The script *run_analysis.R*  contains the process taken to transform the raw data of an experiment for wearable devices into a summarized tidy data set. 
 The details of the experiment can be found in
